@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822385423346",
+    "firebase_url": "https://iris-app-31069.firebaseio.com",
+    "project_id": "iris-app-31069",
+    "storage_bucket": "iris-app-31069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822385423346:android:7985a6d250c04c53",
+        "android_client_info": {
+          "package_name": "com.nexwrfc.iris.iris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822385423346-0ai6lrpas8q8o8rl9s8a3eggrnsedrk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nexwrfc.iris.iris",
+            "certificate_hash": "fb771b318153bab9a866eb16f5baa49160833826"
+          }
+        },
+        {
+          "client_id": "822385423346-s55s5krd0te39g6assgqv1fh88d014se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgolWPRXhmf_8QlzMUXMxng-q-eP_rYWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822385423346-s55s5krd0te39g6assgqv1fh88d014se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

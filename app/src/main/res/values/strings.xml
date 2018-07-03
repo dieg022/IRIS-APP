@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IRIS</string>
+    <string name="session_preferences">IRISPREF</string>
+
+    <string name="alias_preferences">aliasUsuario</string>
+    <string name="id_preferences">idUsuario</string>
+    <string name="fecha_preferences">fechaLogin</string>
+    <string name="nivel_preferences">nivelUsuario</string>
+    <string name="perfil_preferences">perfilUsuario</string>
+    <string name="hotel_preferences">hotelUsuario</string>
+    <string name="hotel_nombre">hotelNombre</string>
+    <string name="menu_option1">Configuración</string>
+    <string name="menu_option2">Mostrar disponibles</string>
+    <string name="nombreFicheroConfiguracion">configuracion.iris</string>
+
+<string name="action_settings">Settings</string>
+<string name="my_cart">My Cart</string>
+<string name="delete">DELETE</string>
+    <string-array name="filtros">
+        <item>Todos</item>
+        <item>Check-IN-SUCIOS</item>
+        <item>Check-IN-LIMPIOS</item>
+        <item>RE-LIMPIEZA OCUPACION</item>
+        <item>Check-OUT-SUCIOS</item>
+        <item>Check-OUT-LIMPIOS</item>
+        <item>Averias</item>
+        <item>SINIESTRAS</item>
+        <item>RE-LIMPIEZA</item>
+
+    </string-array>
+</resources>
